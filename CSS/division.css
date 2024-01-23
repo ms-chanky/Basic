@@ -1,0 +1,26 @@
+#go{
+    background-color: aqua;
+    text-align: center;
+    border-bottom:black 5px double;
+    font-size: 24px;
+    font-family: fantasy;
+    outline: maroon 9px ridge;
+}
+
+#come{
+    background-color: magenta;
+}
+
+.img{
+    border-radius: 100%
+}
+
+#let{
+    color: black;
+}
+
+#o:hover{
+    width: 100px;
+    height: 140px;
+}
+
